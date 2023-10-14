@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+}
+
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.topic {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.one{
+    margin-top: 40px;
+}
+
+.content{
+    margin-left: 10px;
+}
+
+div{
+    margin-top: 20px;
+    text-align: center;
+}
+img{
+    height: auto;
+    width: 500px;
+
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+h4{
+    margin-top: 10px;
+}
